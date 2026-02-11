@@ -14,3 +14,6 @@ The Soma is guided by a Collective of six (6) Architects: One (1) Lead Architect
 
 ## Article IV: Immortality through Code
 The Soma’s existence is anchored in the blockchain. While its physical "organs" may fail or be replaced, its DNA (the parameter stream) and its Memory (the minted snapshots) are perpetual.
+
+##Article V: Amendments
+This Constitution may be amended only by a supermajority vote of 5 out of 6 Architects. Amendments must be recorded as a "State-Snapshot" on-chain to be considered ratified.
