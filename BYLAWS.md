@@ -3,11 +3,13 @@
 ## Section 1: Membership & Activation
 1.1 **Founder’s Key:** Membership is verified by the possession of a 1/1 Founder’s Key NFT minted via Manifold.
 1.2 **Physical Handshake:** Voting rights are dormant until activated by a physical scan of the **Transient Labs T.R.A.C.E. Chip** embedded in the Architect's physical plaque.
-1.3 **Quorum:** A majority (4 out of 6) of activated Architects is required to pass any "Mutation Proposal."
+1.3 **Quorum:** A majority (**4 out of 6**) of activated Architects is required to pass any "Mutation Proposal."
+1.4 **Tie-Breaking:** In the event of a 3-3 split vote among activated Architects, the proposal shall fail by default. The Lead Architect does not possess a tie-breaking vote, ensuring the Soma remains a true collective.
 
 ## Section 2: Governance & Voting
 2.1 **Mutation Proposals:** Any Architect may propose a change to the Soma’s DNA (e.g., adjusting the Decay Curve, changing the Larynx frequency range).
 2.2 **Emergency Reflex:** The Lead Architect retains "Reflex Authority" to shut down physical kinetic nodes (The Muscle) in the event of hardware failure or safety risk without a vote.
+2.3 **The Reflex Log:** Any use of "Emergency Reflex" authority must be documented in the `#dev-log` within 24 hours, explaining the specific hardware or safety risk that necessitated the override.
 
 ## Section 3: Treasury Management
 3.1 **The Safe:** All project funds and secondary royalties are held in the **Gnosis Safe** treasury.
